@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.0.3"
+  version: "0.0.4"
 
 package:
   name: getsources
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/g/getsources/getsources-${{ version }}.tar.gz
-  sha256: d9c6df1cab64144d1fa30fd518079c290779a723b647aa6b1f2eb0a8b88af542
+  sha256: e37f7cf3ba17d158f0ac17b9386495d12cb34f5006fe1aba82a4ffc54550eca1
 
 build:
   number: 0
